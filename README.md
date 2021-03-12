@@ -1,5 +1,7 @@
 # Portfolio
 
+You can check my portfolio here: https://kenvlo.github.io/
+
 ## Project setup
 ```
 npm install
