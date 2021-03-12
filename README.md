@@ -1,4 +1,4 @@
-# iportfolio
+# Portfolio
 
 ## Project setup
 ```
